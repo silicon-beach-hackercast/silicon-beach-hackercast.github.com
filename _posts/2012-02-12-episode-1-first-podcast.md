@@ -6,7 +6,12 @@ title: Episode 1 - Our first podcast
 {{ page.title }}
 ================
 
-We are Andrew Cholakian and Daniel Greenfeld, two developer/entrepreneurs who live and work in the Los Angeles area. 
+We are Andrew Cholakian and Daniel Greenfeld, two developer/entrepreneurs who live and work in the Los Angeles area.
+This is our podcast.
+
+**Quote of the Week**
+
+> "...your Python addled brain..."
 
 **Topics of Discussion**
 
