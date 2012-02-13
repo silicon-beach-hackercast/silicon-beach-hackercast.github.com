@@ -27,6 +27,7 @@ This is our podcast.
 **Resources**
 
 * [Python Generators](http://wiki.python.org/moin/Generators)
+* [Learn Clojure on-line!](http://www.4clojure.com/)
 * [Joy of Clojure](http://www.amazon.com/gp/product/1935182641?ie=UTF8&tag=cn-001-20)
 
 **Corrections and Apologies**
