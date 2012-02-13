@@ -11,7 +11,7 @@ This is our podcast.
 
 **Topics of Discussion**
 
-* Scale 10X
+* Python at Scale 10X
 * New clients asking you to complete the ‘last 10%’
 * A rant about job titles
 * Why is clojure blowing up?
