@@ -24,6 +24,12 @@ This is our podcast.
 
 * [Joy of Clojure](http://www.amazon.com/gp/product/1935182641?ie=UTF8&tag=cn-001-20)
 
+**Corrections**
+
+* Puppet is indeed written in Ruby.
+* Daniel Greenfeld's history of the Python programming language was a bit off.
+* Apologies to Ninja Brenden Eich and the entire JQuery team. You guys are awesome, please don't hurt us!
+
 **Who are Daniel and Andrew?**
 
 Daniel does Python, which looks like this:
