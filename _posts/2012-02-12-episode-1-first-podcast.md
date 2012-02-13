@@ -11,12 +11,6 @@ This is our podcast.
 
 **[Download Now!](http://download.sbhackercast.com/sb-hackercast-2012-02-12-episode-1-first-podcast.mp3)**
 
--------------------------
-
-**Quote of the Week**
-
-> "...your Python addled brain..."
-
 **Topics of Discussion**
 
 * Scale 10X
@@ -24,8 +18,15 @@ This is our podcast.
 * A rant about job titles
 * Why is clojure blowing up?
 
+-------------------------
+
+**Quote of the Week**
+
+> "...your Python addled brain..."
+
 **Resources**
 
+* [Python Generators](http://wiki.python.org/moin/Generators)
 * [Joy of Clojure](http://www.amazon.com/gp/product/1935182641?ie=UTF8&tag=cn-001-20)
 
 **Corrections and Apologies**
