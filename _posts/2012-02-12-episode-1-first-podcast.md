@@ -9,6 +9,8 @@ title: Episode 1 - Our first podcast
 We are Andrew Cholakian and Daniel Greenfeld, two developer/entrepreneurs who live and work in the Los Angeles area.
 This is our podcast.
 
+* [Joy of Clojure](http://download.sbhackercast.com/sb-hackercast-2012-02-12-episode-1-first-podcast.mp3)
+
 **Quote of the Week**
 
 > "...your Python addled brain..."

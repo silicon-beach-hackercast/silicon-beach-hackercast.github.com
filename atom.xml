@@ -5,12 +5,12 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Silicon Beach Hackercast</title>
- <link href="http://silicon-beach-hackercast.github.com/atom.xml" rel="self"/>
- <link href="http://silicon-beach-hackercast.github.com/"/>
+ <link href="http://sbhackercast.com/atom.xml" rel="self"/>
+ <link href="http://sbhackercast.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://http://silicon-beach-hackercast.github.com/</id>
+ <id>http://sbhackercast.com/</id>
  <author>
-   <name>Daniel Greenfeld</name>
+   <name>Daniel Greenfeld and Andrew Cholakian</name>
    <email>pydanny@consumernotebook.com</email>
  </author>
 
@@ -19,9 +19,16 @@ layout: nil
    <title>{{ post.title }}</title>
    <link href="http://silicon-beach-hackercast.github.com{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://silicon-beach-hackercast.github.com{ post.id }}</id>
+   <id>http://sbhackercast.com/{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
+   <link rel="enclosure" 
+         type="audio/mpeg"
+         title="MP3"
+         href="http://download.sbhackercast.com/sb-hackercast{{ post.id | replace:'/','-' }}.mp3"
+         length="1234" />   
  </entry>
  {% endfor %}
  
 </feed>
+
+{% comment %}http://download.sbhackercast.com/sb-hackercast-2011-02-12-episode-1-first-podcast.mp3 {% endcomment %}
