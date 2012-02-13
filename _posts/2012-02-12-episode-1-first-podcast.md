@@ -58,5 +58,5 @@ Their common languages include English and JavaScript, the latter of which looks
 console.log("Hello, world!");
 {% endhighlight %}
 
-![Ninja and Rockstar](/images/episode1.png)
+![Ninja and Rockstar](http://sbhackercast.com/images/episode1.png)
 
