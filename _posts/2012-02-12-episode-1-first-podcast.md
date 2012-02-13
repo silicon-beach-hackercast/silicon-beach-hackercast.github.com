@@ -24,7 +24,7 @@ This is our podcast.
 
 * [Joy of Clojure](http://www.amazon.com/gp/product/1935182641?ie=UTF8&tag=cn-001-20)
 
-**Corrections**
+**Corrections and Apologies**
 
 * Puppet is indeed written in Ruby.
 * Daniel Greenfeld's history of the Python programming language was a bit off.
