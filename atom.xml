@@ -30,5 +30,3 @@ layout: nil
  {% endfor %}
  
 </feed>
-
-{% comment %}http://download.sbhackercast.com/sb-hackercast-2011-02-12-episode-1-first-podcast.mp3 {% endcomment %}
