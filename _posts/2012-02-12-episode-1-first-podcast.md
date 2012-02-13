@@ -15,6 +15,10 @@ We are Andrew Cholakian and Daniel Greenfeld, two developer/entrepreneurs who li
 * A rant about job titles
 * Why is clojure blowing up?
 
+**Resources**
+
+* [Joy of Clojure](http://www.amazon.com/gp/product/1935182641?ie=UTF8&tag=cn-001-20)
+
 **Who are Daniel and Andrew?**
 
 Daniel does Python, which looks like this:
