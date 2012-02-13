@@ -28,6 +28,7 @@ This is our podcast.
 
 * Puppet is indeed written in Ruby.
 * Daniel Greenfeld's history of the Python programming language was a bit off.
+* We can't find the article that points to the payrate vs hours Ninja/Rockstar developers.
 * Apologies to Ninja Brenden Eich and the entire JQuery team. You guys are awesome, please don't hurt us!
 
 **Who are Daniel and Andrew?**
