@@ -11,6 +11,8 @@ This is our podcast.
 
 **[Download Now!](http://download.sbhackercast.com/sb-hackercast-2012-02-12-episode-1-first-podcast.mp3)**
 
+-------------------------
+
 **Quote of the Week**
 
 > "...your Python addled brain..."
